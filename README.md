@@ -124,6 +124,10 @@ The Power BI dashboard includes:
 
 ---
 
+## Expected output
+<img width="905" height="501" alt="image" src="https://github.com/user-attachments/assets/c8610649-146c-4c02-a26b-0f0f56e443f2" />
+
+
 ## Author
 
 **Pruthavi Shelke**
